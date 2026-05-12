@@ -1,0 +1,11 @@
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\bin\Debug\Hangmangame.exe.config
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\bin\Debug\Hangmangame.exe
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\bin\Debug\Hangmangame.pdb
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.csproj.AssemblyReference.cache
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.Form1.resources
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.Form2.resources
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.Properties.Resources.resources
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.csproj.GenerateResource.cache
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.csproj.CoreCompileInputs.cache
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.exe
+C:\Users\malak\source\repos\Hangmangame\Hangmangame\obj\Debug\Hangmangame.pdb
